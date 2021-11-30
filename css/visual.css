@@ -3,3 +3,8 @@ body{
     margin: 15px;
     padding: 10px;
 }
+div{
+    height: 200px;
+    width: 100%;
+    color:white;
+}
