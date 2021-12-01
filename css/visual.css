@@ -8,3 +8,7 @@ div{
     width: 100%;
     color:white;
 }
+p{
+    background-attachment: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
